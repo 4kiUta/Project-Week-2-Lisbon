@@ -1,0 +1,170 @@
+,FREGUESIA,Shape__Area,Shape__Length,DESIGNACAO
+0,Belém,2793.5048828125,229.277260066948,Jardim Pulido Garcia
+1,Lumiar,16934.588378906297,1433.80304232112,Jardim Professor Francisco Caldeira Cabral
+2,Santa Clara,24805.512207031297,677.338049158171,Jardim de Santa Clara - Quinta de Santa Clara
+3,São Domingos de Benfica,384966.68652343797,3851.58053023633,Jardim Zoológico
+4,Santa Maria de Olivais,151007.680664063,1940.80715101322,Viveiro da Quinta Conde Arcos
+5,São Domingos de Benfica,6826.53173828125,398.358042259766,Jardim da Rua Inocêncio Francisco da Silva
+6,Arroios,33071.763671875,1308.49234186061,Jardim Braamcamp Freire - Jardim do Campo Santana
+7,Alvalade,1885.98583984375,171.06359137319401,Miradouro Eduardo Noronha
+8,Areeiro,4267.2685546875,377.78887171637496,Jardim Gomes de Amorim - Casa da moeda
+9,Benfica,783850.970703125,6334.61866340459,PFM: Mata de São Domingos de Benfica
+10,Lumiar,6677.8466796875,445.043496438673,Jardim Prof. António de Sousa Franco - Jardim da Urbanização da Aldeia de Telheiras
+11,Campolide,8773.39794921875,1656.78458804008,Vertente Este do Aqueduto das Águas Livres (Junto ao Jardim do Aqueduto das Águas Livres)
+12,Campolide,9167.775390625,510.523171694356,Jardim da Bela-Flor
+13,Arroios,2508.2763671875,237.627707459543,Jardim dos Sabores
+14,Santa Maria de Olivais,10634.3310546875,519.5041117771531,Jardim Maria de Lourdes Sá Teixeira
+15,Santa Clara,8660.009765625,587.424773703784,Jardim Maria da Luz Ponces de Carvalho
+16,Santa Clara,369961.771972656,5288.428386213521,Parque Vale Grande - Parque Oeste
+17,Marvila,111935.14453125,2393.7355350258604,Parque do Vale Fundão
+18,Carnide,26045.251953125,1414.0446274604699,Jardim da Alameda Roentgen
+19,São Domingos de Benfica,410673.58105468797,3039.65109512541,PFM: Parque Recreativo do Calhau
+20,Amadora,21816.052734375,1197.0988380670099,Jardim Adão Barata
+21,Santa Maria de Olivais,28697.915527343797,1071.91227244753,Quinta Pedagógica dos Olivais
+22,Santa Maria de Olivais,137273.405761719,2187.0540201214603,Parque do Vale do Silêncio
+23,São Vicente,2198.2568359375,183.687966214676,Jardim Augusto Gil / Jardim da Graça
+24,São Vicente,1006.28125,159.278168475596,Miradouro Nossa Senhora do Monte
+25,Belém,6090.4052734375,311.95208298975103,Jardim Praça de Damão
+26,Parque das Nações,20171.248046875,1645.70595658454,Jardim Garcia de Orta - Parque das Nações
+27,Santa Maria de Olivais,61300.408203125,1491.8372224013,Parque Urbano dos Olivais
+28,Estrela,6383.27587890625,331.01683214421,Jardim Nuno Álvares / Jardim de Santos
+29,Parque das Nações,432450.529785156,7997.54334962617,Parque Urbano do Tejo e Trancão
+30,Belém,8224.09375,362.119113168732,Jardim Praça de Malaca
+31,Belém,31919.04296875,1322.27091371116,Jardim do Palacio Nacional de Belém
+32,Alvalade,180264.302734375,2432.97392915988,Parque José Gomes Ferreira - Mata de Alvalade
+33,Marvila,4715.74560546875,288.092836893461,Viveiro da Quinta do Beirão
+34,Ajuda,17370.626953125,1449.17846862482,Palácio da Ajuda
+35,Belém,85043.3852539063,1458.3301467906101,Parque Recreativo dos Moínhos de Santana
+36,Belém,69228.4462890625,1164.07373841046,Jardim Vasco da Gama
+37,Belém,23243.25390625,597.275834756556,Jardim Afonso de Albuquerque
+38,Avenidas Novas,111936.382324219,1785.42485625207,Jardins da Fundação Calouste Gulbenkian
+39,Santo António,5023.51953125,265.803601297955,Jardim Alfredo Keil / Jardim da Alegria
+40,Estrela,2924.634765625,283.591936622363,Jardim Cinco de Outubro - Jardim da Burra
+41,Estrela,77148.0478515625,1189.45441853458,Jardim Guerra Junqueiro - Jardim da Estrela
+42,Misericórdia,2351.1357421875,196.199567249431,Jardim Fialho de Almeida
+43,Areeiro,4146.4306640625,444.39665732092203,Jardim da Praça de Londres
+44,Belém,44343.8857421875,842.923982592742,Jardim da Praça do Império
+45,Belém,19418.1591796875,881.0378757626221,Viveiro da Quinta de Vila Correia
+46,Campolide,53876.84765625,1283.04050411027,Corredor Verde de Monsanto: Jardim Amnistia Internacional - Jardins de Campolide
+47,Alvalade,25395.813964843797,705.0428796709799,Palácio Pimenta - Museu da Cidade
+48,Campolide,233865.4375,2792.8882451350396,PFM: Parque da Pedra
+49,Marvila,257345.89306640602,4233.50475497284,Parque Urbano do Vale Chelas
+50,Santa Clara,49593.0473632813,1159.4233977730498,Jardim da Quinta Alegre - Campo das Amoreiras
+51,Santa Maria de Olivais,8766.466796875,420.799896988203,Jardim do Palácio do Contador-Mor
+52,Santo António,5225.91943359375,591.024238280091,Jardim do Torel
+53,Alcântara,17078.447753906297,535.695632281249,Jardim do Palácio Valle Flor
+54,Carnide,12953.4838867188,476.13611517893304,Jardim da Luz / Parque Teixeira Rebelo
+55,Belém,5082.64306640625,278.39159060005403,Jardim da Praça de Goa
+56,Alvalade,4146.79638671875,263.11991618197703,Palácio Pimenta - Jardim de Bucho - Jardim Bordallo Pinheiro - Museu da Cidade
+57,Alcântara,1659196.17480469,6593.80827972525,PFM: Parque da Tapada da Ajuda
+58,Belém,108652.501464844,1552.0243047306,Jardim do Museu Agrícola Tropical / Jardim do Ultramar
+59,Alcântara,103392.486816406,1512.4433524857,PFM: Parque Recreativo do Alvito
+60,Benfica,259562.741210938,2270.7986214181697,PFM: Espaço Biodiversidade - LX CRAS - Fito-ETAR
+61,Lumiar,187972.49462890602,2055.3244926688,Parque do Monteiro-Mor / Quinta do Marquês de Angeja
+62,Ajuda,10964.944824218801,470.244725137799,PFM: Centro Equestre - Centro Hípico de Montes Claros (Encosta do Penedo)
+63,Arroios,7735.83935546875,431.289249720958,Jardim Henrique Lopes de Mendonça
+64,Lumiar,2477.2265625,201.88407805311002,Praça Rainha Santa
+65,Estrela,5646.259765625,364.509844456215,Praça de São Bento
+66,Alcântara,7116.34765625,326.530247304978,Jardim Avelar Brotero - Jardim do Alto de Santo Amaro
+67,São Domingos de Benfica,58901.3432617188,994.482383045878,Parque Bensaúde - Parque Urbano Quinta Bensaúde
+68,Parque das Nações,6604.61376953125,511.354221326051,Jardins da Água - Parque das Nações
+69,Parque das Nações,60405.333984375,3514.35163699367,Alameda dos Oceanos (Parque das Nações)
+70,Parque das Nações,810.25146484375,151.220516684287,Jardim dos Jacarandás
+71,Campolide,2218.8955078125,186.07080404718002,Jardim do Aqueduto das Águas Livres (Junto à Calçada da Quintinha)
+72,Santa Maria Maior,49618.4458007813,1702.3578173726598,Jardim do Castelo de São Jorge
+73,Benfica,18570.387207031297,630.098813773515,Eucaliptal de Benfica
+74,Santa Maria Maior,2585.33837890625,356.261548075652,Jardim Júlio de Castilho
+75,Estrela,10799.999511718801,637.074178733041,Jardim da Parada dos Prazeres - Praça São João Bosco
+76,Ajuda,14995240.980957001,57906.8493773403,PFM: Parque Florestal de Monsanto 
+77,Parque das Nações,104575.742675781,1940.88937474555,Jardim do Cabeço das Rolas - Parque das Nações
+78,Belém,7158.6455078125,664.080353702411,Jardim do Japão
+79,Belém,26375.494140625,3484.96442015583,Jardim Central Tejo - Museu da Electricidade
+80,Belém,71459.3994140625,1258.43796589175,Jardim da Torre de Belém
+81,Benfica,92046.8369140625,1335.81717008677,PFM: Parque Recreativo do Alto da Serafina
+82,Belém,47301.7670898438,1780.94902020564,Jardim Ducla Soares
+83,Areeiro,3193.91552734375,399.96359902508794,Jardim Tristão da Silva
+84,São Domingos de Benfica,107699.62890625,1317.87779093147,PFM: Jardim do Palácio Marquês de Fronteira
+85,Misericórdia,11344.314453125,488.92635426658205,Jardim de São Pedro de Alcântara / Jardim António Nobre
+86,Arroios,4619.10302734375,395.871039499996,Jardim Miradouro do Torel
+87,Misericórdia,9408.0126953125,403.685818803577,Jardim Lisboa Antiga
+88,Santa Maria de Olivais,22603.3515625,1112.37679290782,Praça de Santo Eugénio
+89,Ajuda,10401.1748046875,738.823964634416,Jardim das Damas
+90,Lumiar,4593.689453125,435.50396715804,Jardim Ventura Terra
+91,Areeiro,22661.41796875,1685.85527588564,Jardim Fernando Pessa - Forum Lisboa
+92,Areeiro,4426.92626953125,258.525751399301,Praça Afrânio Peixoto
+93,Areeiro,8417.58837890625,873.338510624133,Largo da Igreja de São João de Deus - Jardim Irmã Lúcia
+94,Campo de Ourique,30339.2529296875,714.459907296831,"Jardim do Recinto do Arco, às Amoreiras (EPAL)"
+95,Misericórdia,1279.50634765625,149.822790320526,Jardim Roque Gameiro
+96,Avenidas Novas,20782.635253906297,1273.49433953731,Jardim do Marquês de Marialva  - Jardim do Campo Pequeno
+97,São Domingos de Benfica,12803.587890625,521.699278031176,Quinta do Beau -Séjour
+98,Parque das Nações,12926.6547851563,717.6121158395799,Jardim das Ondas
+99,Arroios,4843.50244140625,519.42535991702,Jardim António Feijó - Jardins da Igreja dos Anjos
+100,Areeiro,5200.9150390625,296.76924155842397,Jardim Praça João do Rio
+101,Beato,57148.0346679688,1612.4251697103198,Parque da Mata de Madre de Deus
+102,Estrela,5817.6064453125,408.599616864971,Jardim Olavo Bilac
+103,Lumiar,22842.3740234375,738.0020113843609,Quinta Nossa Senhora da Paz
+104,Arroios,19448.0771484375,961.36790281304,Miradouro do Monte Agudo
+105,Santo António,9195.6708984375,413.968300384784,Jardim Marcelino de Mesquita - Jardim das Amoreiras
+106,Misericórdia,6509.61328125,314.709926804381,Jardim Sá da Bandeira
+107,Santo António,16807.265136718797,4709.82298504202,Jardins da Avenida da Liberdade
+108,Estrela,4404.021484375,349.61619763800303,Jardim 9 de Abril
+109,Arroios,4537.13916015625,275.30858255285096,Jardim Constantino
+110,Ajuda,54029.0517578125,1015.59190062869,Jardim Botânico da Ajuda
+111,Alvalade,34675.8388671875,2797.03372494138,Jardim da Alameda da Cidade Universitária
+112,Avenidas Novas,12278.2333984375,499.28273313128,Jardim Jorge Luís Borges - Jardim do Arco do Cego
+113,São Domingos de Benfica,3936.0234375,425.128056653283,Largo Conde de Ottolini
+114,Estrela,167246.5546875,2015.36084721893,Tapada das Necessidades
+115,Ajuda,26256.7998046875,940.0580511335139,PFM: Miradouro Montes Claros
+116,Lumiar,2135.68603515625,178.93610249362598,Praça Dona Filipa
+117,Carnide,5091.9599609375,757.135135680457,Jardim Bento Martins
+118,Belém,7600.3505859375,1116.4927400397999,Jardim Fernanda Castro
+119,Avenidas Novas,50794.529296875,1087.81244197905,Jardim do Palácio Ventura Terra
+120,São Vicente,7591.8173828125,432.626820058292,Jardim Botto Machado
+121,Avenidas Novas,94490.5234375,1608.4212657773098,Corredor Verde de Monsanto: Jardim Amália Rodrigues
+122,Avenidas Novas,403064.63574218797,3202.8224825783195,Parque Eduardo VII de Inglaterra
+123,Avenidas Novas,3324.248046875,234.371666467292,Jardim Amélia Carvalheira (Igreja de Fátima)
+124,Avenidas Novas,22921.270996093797,762.329101967703,Estufa Fria
+125,Santa Maria de Olivais,16460.423828125,1040.2003862566,Alameda da Encarnação
+126,Lumiar,142473.852539063,4259.97706880963,Eixo Central
+127,Santa Maria de Olivais,75914.541015625,2956.9774103950704,Mata na Rua dos Eucaliptos
+128,Belém,23693.251953125,1061.6182100153098,Museu de Etnologia (Jardim do Museu de Etnologia)
+129,Ajuda,36900.3291015625,2078.07981317149,Parque Urbano do Rio Seco
+130,Misericórdia,2127.50634765625,199.843806436081,Jardim do Alto de Santa Catarina - Jardim do Adamastor
+131,Carnide,5247.453125,321.880864323079,Jardim da Quinta dos Azulejos
+132,Ajuda,186950.505859375,3594.0452067290503,PFM: Alameda Keil do Amaral
+133,Lumiar,24096.776855468797,848.977568953072,Jardim Mahatma Gandhi
+134,Arroios,2789.82080078125,201.325619711964,Jardim Cesário Verde
+135,Santo António,18584.181152343797,553.620930494004,Jardim França Borges  - Jardim do Príncipe Real
+136,Lumiar,253043.998046875,4976.33229650687,Golf (Urbanização Quinta dos Alcoutins)
+137,Benfica,10873.673339843801,454.132269104907,Jardim da Rua João Frederico Ludovice
+138,São Domingos de Benfica,10149.259277343801,882.1804222542371,Jardim Alice Cruz
+139,Campo de Ourique,6363.27978515625,320.799375334768,Jardim Téofilo de Braga - Jardins de Campo de Ourique
+140,Alvalade,2875.29345703125,408.446910473211,Jardim na Rua Eugénio de Castro
+141,Alvalade,182316.69091796898,3638.6954221106703,Jardim do Campo Grande
+142,Alvalade,129916.49316406301,1806.8918557055301,Parque Urbano Quinta do Narigão
+143,Santa Maria Maior,73726.142578125,1461.0270126379,Jardim Ribeira das Naus
+144,Campo de Ourique,143335.021484375,6259.94882582629,Encostas do Casal Ventoso
+145,Marvila,47889.697265625,1663.1779503622502,Viveiro Quinta das Flores
+146,Lumiar,25057.4248046875,1194.5378283874302,Ponte Galp
+147,Areeiro,9455.17333984375,600.334415080939,Jardim sobre a Fonte Monumental - Alameda Dom Afonso Henriques
+148,Areeiro,60274.05859375,1915.36441076995,Jardim da Alameda Dom Afonso Henriques
+149,Benfica,67653.5063476563,1121.48480663681,Parque Silva Porto / Mata de Benfica
+150,Lumiar,409964.32324218797,3883.2205741343105,Parque Quinta das Conchas - Nave Central
+151,Alvalade,4559.884765625,280.044823958091,Jardim da Quinta dos Barros
+152,Campo de Ourique,13577.806640625,866.5454493655701,Largo da Igreja de Santo Condestável
+153,Parque das Nações,13083.2260742188,1504.07193484762,Jardins Ribeirinhos
+154,Santo António,92669.39013671881,1510.01825958809,Jardim Botânico da Faculdade de Ciências da Universidade Lisboa
+155,Estrela,7007.4560546875,412.71259273460703,Jardim Elisa Baptista Sousa Pedroso - Jardim Salazar - Jardim da Imprensa
+156,Marvila,527046.867675781,3538.1610012837396,Parque da Belavista-Central
+157,Marvila,261318.604492188,3164.24397417713,Parque da Belavista-Golfe
+158,Marvila,78168.8696289063,1796.43948518198,Parque da Belavista-Sul (zona com equipamento)
+159,Campolide,79052.2202148438,1153.42917156639,Corredor Verde de Monsanto: Parque Urbano Quinta do Zé Pinto
+160,Benfica,67227.6064453125,1962.4651384506699,Quinta da Granja
+161,Lumiar,6880.478515625,1150.0078905733099,Jardim Professor Francisco Caldeira Cabral (Norte)
+162,Belém,7038.77490234375,334.27172522788203,Jardim da Praça de Diu
+163,São Vicente,22925.3037109375,975.371227812983,Jardim da Cerca da Graça
+164,São Vicente,1103.0166015625,313.813784179422,Miradouro da Graça - Miradouro Sophia de Mello Andresen
+165,Santo António,9720.6826171875,349.766697563733,Rotunda do Marquês de Pombal
+166,Belém,27823.08203125,1911.5900692137197,Jardins da Fundação Champalimaud
+167,Campolide,67507.4868164063,3644.7309997991797,Corredor Verde de Monsanto :Parque Ventura Terra
+168,Marvila,74602.7119140625,1557.8103451904901,Parque da Bela Vista Norte - Parque Vinícola

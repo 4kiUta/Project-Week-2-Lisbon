@@ -1,0 +1,96 @@
+X,Y,INF_NOME,INF_DESCRICAO,MORADA1,FREGUESIA
+-9.156713271289892,38.7265022222289,Escola Secundária Maria Amália Vaz Carvalho,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais
+
+Áreas de CURSOS PROFISSIONAIS:  
+Desporto, Hotelaria e Restauração","['Escola Secundária Maria Amália Vaz de Carvalho', ' Rua Rodrigo da Fonseca', ' Campolide', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1099-074 SÃO SEBASTIÃO DA PEDREIRA', ' Portugal']",Campolide
+-9.16222525841477,38.7419865266753,Escola Secundária D. Pedro V,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades
+
+Áreas de CURSOS PROFISSIONAIS:  
+Turismo e Lazer, Artes do Espetáculo, Desporto, Ciências Informáticas, Saúde, Comércio, Secretariado e Trabalho Administrativo","['Escola Secundária Dom Pedro V', ' Estrada das Laranjeiras', ' Sete Rios', ' São Sebastião da Pedreira', ' Avenidas Novas', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1099-023', ' Portugal']",Avenidas Novas
+-9.19410643371218,38.747471434061204,Escola Secundária José Gomes Ferreira,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais
+
+","['Escola Secundária José Gomes Ferreira', ' Rua Professor José Sebastião e Silva', ' Benfica', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1549-019', ' Portugal']",Benfica
+-9.180851978544561,38.7615232380802,Escola Secundária Vergílio Ferreira,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais
+
+Áreas de CURSOS PROFISSIONAIS:  
+Ciências Informáticas","['Escola Secundária Vergílio Ferreira', ' Rua do Seminário', ' Carnide', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1600-413', ' Portugal']",Carnide
+-9.13092466787873,38.7265545168526,Escola Secundária D. Luísa de Gusmão,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades
+
+Áreas de CURSOS PROFISSIONAIS:  
+Saúde, Desporto, Eletrónica e Automação","['Escola Secundária Dona Luisa de Gusmão', ' 193', ' Rua da Penha de França', ' Anjos', ' Arroios', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1199-011 LISBOA', ' Portugal']",Arroios
+-9.140164740687819,38.739726985315,Escola Básica e Secundária D. Filipa de Lencastre,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS: 
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades","['Escola Secundária Dona Filipa de Lencastre', ' Rua Desidério Bessa', ' Bairro do Arco do Cego', ' Areeiro', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1000-189', ' Portugal']",Areeiro
+-9.141340363205199,38.7513554829074,Escola Secundária Rainha D. Leonor,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais
+
+Áreas de CURSOS PROFISSIONAIS:  
+Ciências Informáticas","['Escola Secundária Rainha Dona Leonor', ' Rua Silva e Albuquerque', ' Alvalade', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1700-349', ' Portugal']",Alvalade
+-9.128019909711961,38.7164700571697,Escola Básica e Secundária Gil Vicente,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Línguas e Humanidades
+
+Áreas de CURSOS PROFISSIONAIS:  
+Ciências Informáticas, Turismo e Lazer, Artes do Espetáculo, Comércio","['Escola Secundária Gil Vicente', ' Campo de Santa Clara', ' São Vicente de Fora', ' São Vicente', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1100-472', ' Portugal']",São Vicente
+-9.214059793040098,38.7097066539084,Escola Secundária Restelo,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais","['Escola Secundária do Restelo', ' Avenida das Descobertas', ' Restelo', ' São Francisco Xavier', ' Belém', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1400-406', ' Portugal']",Belém
+-9.188835208558169,38.7023861726557,Escola Secundária Rainha D. Amélia,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais","['Escola Secundária Rainha Dona Amélia', ' Rua Jau', ' Santo Amaro', ' Alcântara', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1349-002', ' Portugal']",Alcântara
+-9.188835208558169,38.7023861726557,Escola Secundária Fonseca Benevides,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Línguas e Humanidades
+
+Áreas de CURSOS PROFISSIONAIS:  
+Eletrónica e Automação, Tecnologia dos Processos Químicos, Ciências Informáticas
+
+ESCOLA com ENSINO À DISTÂNCIA no SECUNDÁRIO (10º, 11º e 12º Ano) apenas nos Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Línguas e Humanidades","['Escola Secundária Rainha Dona Amélia', ' Rua Jau', ' Santo Amaro', ' Alcântara', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1349-002', ' Portugal']",Alcântara
+-9.15847366471788,38.7164183264087,Escola Secundária Pedro Nunes,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais","['Liceu Pedro Nunes', ' Rua Saraiva de Carvalho', ' Amoreiras', ' Santa Isabel', ' Campo de Ourique', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1250-245', ' Portugal']",Campo de Ourique
+-9.1433131282478,38.730169930109994,Escola Secundária Camões,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais
+
+Áreas de CURSOS PROFISSIONAIS:  
+Ciências Informáticas, Artes Visuais e Produção de Média","['Escola Secundária Luís de Camões', ' Rua Almirante Barroso', ' Saldanha', ' Arroios', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1000-012', ' Portugal']",Arroios
+-9.149871616746061,38.7118977803481,Escola Básica e Secundária Passos Manuel,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias e Línguas e Humanidades
+
+Áreas de CURSOS PROFISSIONAIS: 
+Ciências Informáticas, Artes do Espetáculo e Turismo e Lazer","['Escola Básica e Secundária Passos Manuel', ' Travessa do Convento de Jesus', ' Mercês', ' São Bento', ' Misericórdia', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1249-027', ' Portugal']",Misericórdia
+-9.19559461604951,38.699952975367,Escola Secundária Marquês de Pombal,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias
+
+Áreas de CURSOS PROFISSIONAIS:  
+Audiovisuais e Produção de Média, Desporto, Construção e Reparação de Veículos a Motor
+","['Colégio Nuno Álvares - Casa Pia', ' 26', ' Rua Alexandre de Sá Pinto', ' Belém', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1300-217', ' Portugal']",Belém
+-9.113011253203641,38.7518716629711,Escola Secundária D. Dinis - Lisboa,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades
+
+Áreas de CURSOS PROFISSIONAIS:  
+Audiovisuais e Produção de Média, Serviços de Apoio a Crianças e Jovens, Ciências Informáticas, Desporto.","['Escola Secundária Dom Dinis', ' Rua Luiz Pacheco', ' Bairro das Amendoeiras', ' Marvila', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1950-004', ' Portugal']",Marvila
+-9.108431309508529,38.7703116928653,Escola Secundária António Damásio,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais
+
+Áreas de CURSOS PROFISSIONAIS:  
+Ciências Informáticas, Comércio, Turismo e Lazer, Eletricidade e Energia, Eletrónica e Automação","['Escola Secundária António Damásio', ' Rua Contra-Almirante Armando Ferraz', ' Olivais', ' Santa Maria de Olivais', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1800-021 SANTA MARIA DOS OLIVAIS', ' Portugal']",Santa Maria de Olivais
+-9.16756628266635,38.7131536138509,Escola Básica e Secundária Josefa de Óbidos,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:
+Ciências e Tecnologias, Línguas e Humanidades
+
+","['Escola Josefa de Óbidos', ' Rua Professor Gomes Teixeira', ' Amoreiras', ' Santo Condestável', ' Campo de Ourique', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1350-230', ' Portugal']",Campo de Ourique
+-9.13562573411851,38.757743506443795,Escola Secundária Padre António Vieira,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades
+
+Áreas de CURSOS PROFISSIONAIS:  
+Ciências Informáticas, Audiovisuais e Produção de Média, Saúde ","['Escola Secundária Padre António Vieira', ' Rua Marquês do Soveral', ' São João de Brito', ' Alvalade', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1749-063', ' Portugal']",Alvalade
+-9.162269464509901,38.7693639433044,Escola Secundária Lumiar,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Línguas e Humanidades
+
+Áreas de CURSOS PROFISSIONAIS:  
+Turismo e Lazer, Comércio, Ciências Informáticas","['Escola Secundária do Lumiar', ' Rua Mário Sampaio Ribeiro', ' Bairro da Cruz Vermelha', ' Lumiar', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1600-488', ' Portugal']",Lumiar
+-9.11241063690973,38.7645920629,Escola Secundária Eça de Queirós,"Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  
+Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades
+
+Áreas de CURSOS PROFISSIONAIS:  
+Artes do Espetáculo, Gestão e Administração, Marketing e Publicidade, Audiovisuais e Produção de Média","['Escola Secundária Eça de Queirós', ' Rua Cidade de Benguela', ' Olivais', ' Santa Maria de Olivais', ' Lisboa', ' Grande Lisboa', ' Área Metropolitana de Lisboa', ' 1800', ' Portugal']",Santa Maria de Olivais
